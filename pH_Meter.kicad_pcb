@@ -618,6 +618,7 @@
     )
   )
 
+  (gr_rect (start 95.8 104.1) (end 104.5 107.5) (layer "F.Mask") (width 0.1) (fill solid) (tstamp 0861f6e5-05c0-4661-ab14-a27ae4e1d35b))
   (gr_rect (start 88.65 96.45) (end 116.75 114.95) (layer "Edge.Cuts") (width 0.0381) (fill none) (tstamp 054259e4-c859-4f01-9651-d8326ad49aeb))
 
   (segment (start 115.85 101.5) (end 115.85 110.625) (width 0.4) (layer "F.Cu") (net 1) (tstamp 1912a79f-8972-4bd8-bd6f-c1b16085dfff))
